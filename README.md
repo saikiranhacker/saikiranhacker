@@ -1,6 +1,6 @@
-<!-- ===== Sky Blue Banner ===== -->
+<!-- ===== Dark Hacker Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=020617&color=0:00E5FF,50:38BDF8,100:0284C7&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=00FF9C&color=0:020617,50:020617,100:020617&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -8,21 +8,21 @@ Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-On a mission to build scalable and intelligent systems 🚀
+Building intelligent systems in the dark ⚡
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineer with experience in **Full-Stack & Backend development**
-- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
-- 🧠 Solid foundation in **Data Structures & Algorithms**
-- 🚀 Passionate about solving real-world problems using technology
+- 💻 Software Engineer focused on **Backend, Full-Stack & AI/ML**
+- 🧠 Strong in **Data Structures & Algorithms**
+- 🤖 Passionate about **Machine Learning & Deep Learning**
+- 🚀 Turning ideas into production-ready systems
 
 ---
 
-## 💻 Programming Languages & Tools
+## 🧑‍💻 Programming Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,react,nextjs,nodejs,nestjs,mysql,mongodb,git,github,aws,docker,tensorflow,pytorch" />
@@ -34,15 +34,15 @@ On a mission to build scalable and intelligent systems 🚀
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saikiran-vadamadura/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/vadamadurasaikiran/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="mailto:vadamadurasaikiran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -58,6 +58,6 @@ On a mission to build scalable and intelligent systems 🚀
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨  
-Let’s build something impactful together 🚀
+⚡ Welcome to my GitHub ⚡  
+Code. Learn. Build. Repeat.
 </p>
