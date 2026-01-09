@@ -1,6 +1,7 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=BB86FC" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=00F5FF&color=0:0F2027,50:203A43,100:2C5364&animation=fadeIn" />
+
 </p>
 
 <h3 align="center">
