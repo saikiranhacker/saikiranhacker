@@ -7,10 +7,6 @@
 Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 </h3>
 
-<p align="center">
-Building intelligent systems in the dark ⚡
-</p>
-
 ---
 
 ## 👨‍💻 About Me
