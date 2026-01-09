@@ -1,6 +1,6 @@
 <!-- ===== Custom Hacker Banner ===== -->
 <p align="center">
-  <img src="assets/banner.png" alt="Saikiran Vadamadura Banner" />
+  <img src="assets/gitsai.png" alt="Saikiran Vadamadura Banner" />
 </p>
 
 <h3 align="center">
