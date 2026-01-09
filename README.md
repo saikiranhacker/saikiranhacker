@@ -1,6 +1,6 @@
-<!-- ===== Banner ===== -->
+<!-- ===== Sky Blue Banner ===== -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=020617&color=0:00E5FF,50:38BDF8,100:0284C7&animation=f
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=020617&color=0:00E5FF,50:38BDF8,100:0284C7&animation=fadeIn" />
 </p>
 
 <h3 align="center">
