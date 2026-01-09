@@ -1,6 +1,6 @@
-<!-- ===== Dark Hacker Banner ===== -->
+<!-- ===== Custom Hacker Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Saikiran%20Vadamadura&fontSize=48&fontColor=00FF9C&color=0:020617,50:020617,100:020617&animation=fadeIn" />
+  <img src="assets/banner.png" alt="Saikiran Vadamadura Banner" />
 </p>
 
 <h3 align="center">
@@ -15,10 +15,10 @@ Building intelligent systems in the dark ⚡
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineer focused on **Backend, Full-Stack & AI/ML**
-- 🧠 Strong in **Data Structures & Algorithms**
+- 💻 Software Engineer focused on **Full-Stack, Backend & AI/ML**
 - 🤖 Passionate about **Machine Learning & Deep Learning**
-- 🚀 Turning ideas into production-ready systems
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🚀 Love building scalable, real-world systems
 
 ---
 
